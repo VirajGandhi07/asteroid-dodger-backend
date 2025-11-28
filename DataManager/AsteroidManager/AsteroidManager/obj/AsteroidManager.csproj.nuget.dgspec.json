@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj": {}
+    "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj": {}
   },
   "projects": {
-    "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj": {
+    "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj",
+        "projectUniqueName": "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj",
         "projectName": "AsteroidManager",
-        "projectPath": "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj",
+        "projectPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj",
         "packagesPath": "/home/vgubuntu/.nuget/packages/",
-        "outputPath": "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/obj/",
+        "outputPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vgubuntu/.nuget/NuGet/NuGet.Config"

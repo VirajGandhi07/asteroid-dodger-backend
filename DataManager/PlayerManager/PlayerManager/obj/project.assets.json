@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vgubuntu/asteroid-dodger/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj",
+      "projectUniqueName": "/home/vgubuntu/asteroid-dodger-backend/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj",
       "projectName": "PlayerManager",
-      "projectPath": "/home/vgubuntu/asteroid-dodger/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj",
+      "projectPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj",
       "packagesPath": "/home/vgubuntu/.nuget/packages/",
-      "outputPath": "/home/vgubuntu/asteroid-dodger/DataManager/PlayerManager/PlayerManager/obj/",
+      "outputPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/PlayerManager/PlayerManager/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vgubuntu/.nuget/NuGet/NuGet.Config"

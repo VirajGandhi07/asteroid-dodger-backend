@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vgubuntu/asteroid-dodger/DataManager/GameLauncher/GameLauncher/GameLauncher.csproj": {}
+    "/home/vgubuntu/asteroid-dodger-backend/DataManager/GameLauncher/GameLauncher/GameLauncher.csproj": {}
   },
   "projects": {
-    "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj": {
+    "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj",
+        "projectUniqueName": "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj",
         "projectName": "AsteroidManager",
-        "projectPath": "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj",
+        "projectPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj",
         "packagesPath": "/home/vgubuntu/.nuget/packages/",
-        "outputPath": "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/obj/",
+        "outputPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vgubuntu/.nuget/NuGet/NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "/home/vgubuntu/asteroid-dodger/DataManager/GameLauncher/GameLauncher/GameLauncher.csproj": {
+    "/home/vgubuntu/asteroid-dodger-backend/DataManager/GameLauncher/GameLauncher/GameLauncher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vgubuntu/asteroid-dodger/DataManager/GameLauncher/GameLauncher/GameLauncher.csproj",
+        "projectUniqueName": "/home/vgubuntu/asteroid-dodger-backend/DataManager/GameLauncher/GameLauncher/GameLauncher.csproj",
         "projectName": "GameLauncher",
-        "projectPath": "/home/vgubuntu/asteroid-dodger/DataManager/GameLauncher/GameLauncher/GameLauncher.csproj",
+        "projectPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/GameLauncher/GameLauncher/GameLauncher.csproj",
         "packagesPath": "/home/vgubuntu/.nuget/packages/",
-        "outputPath": "/home/vgubuntu/asteroid-dodger/DataManager/GameLauncher/GameLauncher/obj/",
+        "outputPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/GameLauncher/GameLauncher/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vgubuntu/.nuget/NuGet/NuGet.Config"
@@ -84,11 +84,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj": {
-                "projectPath": "/home/vgubuntu/asteroid-dodger/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj"
+              "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj": {
+                "projectPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/AsteroidManager/AsteroidManager/AsteroidManager.csproj"
               },
-              "/home/vgubuntu/asteroid-dodger/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj": {
-                "projectPath": "/home/vgubuntu/asteroid-dodger/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj"
+              "/home/vgubuntu/asteroid-dodger-backend/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj": {
+                "projectPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj"
               }
             }
           }
@@ -127,14 +127,14 @@
         }
       }
     },
-    "/home/vgubuntu/asteroid-dodger/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj": {
+    "/home/vgubuntu/asteroid-dodger-backend/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vgubuntu/asteroid-dodger/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj",
+        "projectUniqueName": "/home/vgubuntu/asteroid-dodger-backend/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj",
         "projectName": "PlayerManager",
-        "projectPath": "/home/vgubuntu/asteroid-dodger/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj",
+        "projectPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/PlayerManager/PlayerManager/PlayerManager.csproj",
         "packagesPath": "/home/vgubuntu/.nuget/packages/",
-        "outputPath": "/home/vgubuntu/asteroid-dodger/DataManager/PlayerManager/PlayerManager/obj/",
+        "outputPath": "/home/vgubuntu/asteroid-dodger-backend/DataManager/PlayerManager/PlayerManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vgubuntu/.nuget/NuGet/NuGet.Config"
