@@ -1,0 +1,95 @@
+###############################
+# .NET / C# Build Artifacts
+###############################
+
+# Build output
+bin/
+obj/
+out/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio caches
+.vs/
+*.dbmdl
+*.jfm
+*.DS_Store
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.psmdcp
+
+# Transient files
+*.pdb
+*.cache
+*.tmp
+*.bak
+*.swp
+
+# Compiled DLL/EXE
+*.dll
+*.exe
+
+###############################
+# IDE Files
+###############################
+
+# JetBrains Rider
+.idea/
+
+# VS Code
+.vscode/
+.history/
+
+###############################
+# Test Artifacts
+###############################
+
+TestResults/
+*.coverage
+*.coveragexml
+
+###############################
+# Dotnet user global.json SDK 
+###############################
+
+.global.json
+
+###############################
+# OS / File System
+###############################
+
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.stackdump
+
+###############################
+# Project-specific Exclusions
+###############################
+
+# Remove generated testhost files
+**/testhost.dll
+**/testhost.exe
+
+# Remove build-generated JSONs (except your data folder)
+**/*.deps.json
+**/*.runtimeconfig.json
+**/ref/
+**/refint/
+
+# Allow these specific data JSON files
+!DataStorage/asteroids.json
+!DataStorage/players.json
